@@ -1,0 +1,17 @@
+<package>
+  <description brief="tools">
+
+     demoClayROS
+
+  </description>
+  <author>Clayder</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/tools</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="nav_msgs"/>
+  <depend package="sensor_msgs"/>
+</package>
+
+

@@ -1,0 +1,5 @@
+In file included from examples/mnist/convert_mnist_data.cpp:10:0:
+examples/mnist/convert_mnist_data.cpp: In function 'void convert_dataset(const char*, const char*, const char*, const string&)':
+examples/mnist/convert_mnist_data.cpp:96:56: warning: large integer implicitly truncated to unsigned type [-Woverflow]
+     CHECK_EQ(mdb_env_set_mapsize(mdb_env, 1099511627776), MDB_SUCCESS)  // 1TB
+                                                        ^

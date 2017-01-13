@@ -1,0 +1,12 @@
+.build_release/src/caffe/proto/caffe.pb.cc:5297:3: warning: this decimal constant is unsigned only in ISO C90
+   if (_has_bits_[24 / 32] & 4261412864) {
+   ^
+.build_release/src/caffe/proto/caffe.pb.cc:8831:3: warning: this decimal constant is unsigned only in ISO C90
+   if (_has_bits_[24 / 32] & 4278190080) {
+   ^
+.build_release/src/caffe/proto/caffe.pb.cc:27564:3: warning: this decimal constant is unsigned only in ISO C90
+   if (_has_bits_[24 / 32] & 4278190080) {
+   ^
+.build_release/src/caffe/proto/caffe.pb.cc:29680:3: warning: this decimal constant is unsigned only in ISO C90
+   if (_has_bits_[24 / 32] & 4261412864) {
+   ^
